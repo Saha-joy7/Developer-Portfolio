@@ -100,6 +100,23 @@ h4{
     display: flex;
     justify-content: space-between;
 }
-.ex-details{
-    justify-content: space-around;
+.ex-java .ex-react .ex-note-js .ex-mongodb  {
+    border: 1px solid gray;
+    box-shadow: 1px 2px 3px rgb(152, 151, 151) ;
+}
+.summary{
+    text-align: center;
+    margin: 50px 100px 50px;
+
+}
+.all{
+    display: flex;
+}
+.heading{
+    padding: 0px 0px 30px 0px;
+    font-size: 30px;
+}
+.two{
+    font-size: 10px;
+    padding: 0px 0px 12px 0px ;
 }
