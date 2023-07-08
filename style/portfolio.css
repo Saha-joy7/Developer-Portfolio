@@ -99,6 +99,7 @@ h4{
 .experience{
     display: flex;
     justify-content: space-between;
+    gap: 60px;
 }
 .ex-java .ex-react .ex-note-js .ex-mongodb  {
     border: 1px solid gray;
@@ -111,6 +112,7 @@ h4{
 }
 .all{
     display: flex;
+    gap: 70px;
 }
 .heading{
     padding: 0px 0px 30px 0px;
@@ -119,4 +121,16 @@ h4{
 .two{
     font-size: 10px;
     padding: 0px 0px 12px 0px ;
+}
+
+#nai{
+    text-align: center;
+    
+}
+.cv{
+    text-align: center;
+    margin-top: 60px;
+}
+.gap{
+    margin-bottom: 30px;
 }
