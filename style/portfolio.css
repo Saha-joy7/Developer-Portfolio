@@ -1,0 +1,42 @@
+*{
+    padding: opx;
+    margin: 0px;
+}
+nav{
+    font-family: 'Open Sans', sans-serif;
+}
+nav li{
+    list-style: none;
+    margin-right: 50px;
+}
+.nav-bar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 50px;
+}
+.nav-right{
+    display: flex;
+    align-items: center;
+    
+}
+.color{
+    color: rgb(239, 109, 62);
+
+}
+.b-color{
+    background-color: rgb(239, 109, 62);
+    padding: 7px;
+    border: none;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: 500px;
+    padding: 15px 25px;
+}
+.header{
+    background-color: #fff8f3
+}
+.img{
+    height: 600px;
+    width: 500px;
+}
