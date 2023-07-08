@@ -4,6 +4,7 @@
 }
 nav{
     font-family: 'Open Sans', sans-serif;
+    margin: 0 110px;
 }
 nav li{
     list-style: none;
@@ -13,7 +14,10 @@ nav li{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 50px;
+    padding: 30px;
+}
+.nav-left{
+    font-size: 30px;
 }
 .nav-right{
     display: flex;
@@ -22,6 +26,7 @@ nav li{
 }
 .color{
     color: rgb(239, 109, 62);
+    padding: 7px;
 
 }
 .b-color{
@@ -34,9 +39,19 @@ nav li{
     padding: 15px 25px;
 }
 .header{
-    background-color: #fff8f3
+    background-color: rgb(255, 248, 243)
+}
+.banner{
+    display: flex;
+    background-image: url("../images/header_bg.png");
+    background-size: 750px;
+    background-position: bottom right;
+    background-repeat: no-repeat;
+    padding: 30px 20px 0px 150px;
+    
+
 }
 .img{
-    height: 600px;
-    width: 500px;
+    height: 450px;
+    width: 400px;
 }
