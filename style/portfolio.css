@@ -49,8 +49,14 @@ nav li{
     background-repeat: no-repeat;
     padding: 30px 20px 0px 150px;
     align-items: center;
+
     
 
+}
+.okh{
+    background-image: url(../images/developer.png);
+    background-position: left center;
+    background-size: 60px;
 }
 .img{
     height: 450px;
@@ -133,4 +139,19 @@ h4{
 }
 .gap{
     margin-bottom: 30px;
+}
+.finish{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(238, 207, 169);
+    padding-bottom: 80px;
+}
+.font{
+    font-size: 35px;
+    margin: 30px;
+    padding: 120px;
+}
+.okk{
+    margin-left: 100px;
 }
