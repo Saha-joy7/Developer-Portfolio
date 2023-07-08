@@ -39,7 +39,7 @@ nav li{
     padding: 15px 25px;
 }
 .header{
-    background-color: rgb(255, 248, 243)
+    background-color: rgb(235, 200, 175)
 }
 .banner{
     display: flex;
@@ -48,6 +48,7 @@ nav li{
     background-position: bottom right;
     background-repeat: no-repeat;
     padding: 30px 20px 0px 150px;
+    align-items: center;
     
 
 }
@@ -55,7 +56,7 @@ nav li{
     height: 450px;
     width: 400px;
 }
-section { 
+.about-myself { 
     background-color: hwb(33 76% 2%);
     margin: 50px 70px;
     padding-bottom: 70px;
@@ -86,4 +87,19 @@ h4{
 }
 .end{
     font-size: 12px;
+}
+.work-description{
+    text-align: center;
+    margin: 50px 100px 50px;
+}
+.about-work{
+    margin: 50px 70px;
+    padding-bottom: 70px;
+}
+.experience{
+    display: flex;
+    justify-content: space-between;
+}
+.ex-details{
+    justify-content: space-around;
 }
